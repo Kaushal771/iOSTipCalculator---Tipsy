@@ -8,7 +8,7 @@
 ![Screenshot](TipsyUserSelection.png)
 
 ## Results Screen 
-![Screenshot](TipsyResultsScreen.png)
+![Screenshot](TipsyRestultsScreen.png)
 
 
 
