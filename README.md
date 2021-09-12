@@ -1,5 +1,5 @@
 # iOSTipCalculator - Tipsy
-Tipsy is a Bill Calculator app which allows users to calculate a 'per person total' from a  
+Tipsy is a Bill Calculator app which allows users to calculate a 'per person total' from a bill which has a tip added and is split between a certain number of people. 
 
 ### How it works
 
