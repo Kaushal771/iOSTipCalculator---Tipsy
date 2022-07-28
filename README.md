@@ -18,6 +18,6 @@ Tipsy is a Bill Calculator app which allows users to calculate a 'per person tot
 ## Results Screen 
 ![Screenshot](TipsyRestultsScreen.png)
 
-
+Adding a line here to test git commits 
 
 
